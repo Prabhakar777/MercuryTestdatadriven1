@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44256" started-at="2019-02-24T07:12:58Z" finished-at="2019-02-24T07:13:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44256" started-at="2019-02-24T07:12:58Z" finished-at="2019-02-24T07:13:42Z">
+      <class name="com.cjc.Testdatadriven.MercuryTest1">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.cjc.Testdatadriven.MercuryTest1@1057a39]" name="openbrowser" is-config="true" duration-ms="11944" started-at="2019-02-24T07:12:46Z" finished-at="2019-02-24T07:12:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="url()[pri:0, instance:com.cjc.Testdatadriven.MercuryTest1@1057a39]" name="url" is-config="true" duration-ms="5320" started-at="2019-02-24T07:12:58Z" finished-at="2019-02-24T07:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="maximizewindow()[pri:0, instance:com.cjc.Testdatadriven.MercuryTest1@1057a39]" name="maximizewindow" is-config="true" duration-ms="1286" started-at="2019-02-24T07:13:03Z" finished-at="2019-02-24T07:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizewindow -->
+        <test-method status="PASS" signature="Loginvalddetails(java.lang.String, java.lang.String)[pri:0, instance:com.cjc.Testdatadriven.MercuryTest1@1057a39]" name="Loginvalddetails" duration-ms="13692" started-at="2019-02-24T07:13:12Z" data-provider="getdata" finished-at="2019-02-24T07:13:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Suvidyap1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssword1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginvalddetails -->
+        <test-method status="PASS" signature="Loginvalddetails(java.lang.String, java.lang.String)[pri:0, instance:com.cjc.Testdatadriven.MercuryTest1@1057a39]" name="Loginvalddetails" duration-ms="5515" started-at="2019-02-24T07:13:26Z" data-provider="getdata" finished-at="2019-02-24T07:13:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Suvidyap2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssword2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginvalddetails -->
+        <test-method status="PASS" signature="Loginvalddetails(java.lang.String, java.lang.String)[pri:0, instance:com.cjc.Testdatadriven.MercuryTest1@1057a39]" name="Loginvalddetails" duration-ms="10310" started-at="2019-02-24T07:13:32Z" data-provider="getdata" finished-at="2019-02-24T07:13:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Suvidyap3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[P@ssword3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginvalddetails -->
+      </class> <!-- com.cjc.Testdatadriven.MercuryTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
